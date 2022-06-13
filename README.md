@@ -1,7 +1,10 @@
 # MASMag-Net
-test.py is the main code for the magntiude estiamton for per event.  
-#models.py is the model architectue.  
-#DatPiplelinesParams0.py is for reading the files which the contained the earthquake parameters information.  
-#DatPreprogress.py is for the data pre-progress before the input model.  
-#LRDecays.py is the gradually decrease learning rate.  
-#plot_func.py is the function for plot the resules.   
+**test.py**  is the main code for the magnitude estimation per event.  
+**models.py** the model architecture.  
+**DatPiplelinesParams0.py** is for reading the files which contained the earthquake parameters information.   
+**DatPreprogress.py** is for the data pre-progress before the input model.  
+**LRDecays.py** is the code for gradual warm-up step learning rate.  
+**plot_func.py** is the function for plot the resules.   
+**30km_TTV.pkl** is the catalog for training/ testing/ validation.  
+**Info30kmWeiR2.pkl** is the distance attenuation coefficient for distance correction from 0.1s to 30s.  
+**loss_weight.pkl** is the weights for calculating loss.  
