@@ -8,3 +8,5 @@
 **30km_TTV.pkl** is the catalog for training/ testing/ validation.  
 **Info30kmWeiR2.pkl** is the distance attenuation coefficient for distance correction from 0.1s to 30s.  
 **loss_weight.pkl** is the weights for calculating loss.  
+**event.zip** is the event example.  
+**model_ckpt.zip** is the model checkpoint.  
