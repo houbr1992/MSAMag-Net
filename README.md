@@ -1,4 +1,4 @@
-# MASMag-Net
+# MSAMag-Net
 **test.py**  is the main code for the magnitude estimation per event.  
 **models.py** the model architecture.  
 **DatPiplelinesParams0.py** is for reading the files which contained the earthquake parameters information.   
